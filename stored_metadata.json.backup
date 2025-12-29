@@ -1,0 +1,912 @@
+[
+  {
+    "input": "D:\\test\\test1\\new2\\Person_14_20251208_110534_1_q055.jpg",
+    "output": "proc_Person_14_20251208_110534_1_q055.jpg",
+    "faces": [
+      {
+        "bbox": [
+          20,
+          25,
+          88,
+          109
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Sad",
+        "person_id": "ID001",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 1.0,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 1.0,
+          "max_similarity": 1.0,
+          "avg_similarity": 1.0,
+          "confidence": "high",
+          "gallery_size": 2,
+          "method": "FAISS",
+          "top_k": 15,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 7.71,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            37.309104919433594,
+            62.32894515991211
+          ],
+          "right_eye": [
+            67.0458984375,
+            59.72342300415039
+          ],
+          "nose": [
+            52.8941535949707,
+            79.37635803222656
+          ],
+          "left_mouth": [
+            47.18682861328125,
+            94.50733184814453
+          ],
+          "right_mouth": [
+            65.37635803222656,
+            92.61563110351562
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:58:22.139018"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\Person_156_20251210_174740_1_q053.jpg",
+    "output": "proc_Person_156_20251210_174740_1_q053.jpg",
+    "faces": [
+      {
+        "bbox": [
+          35,
+          26,
+          130,
+          133
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Neutral",
+        "person_id": "ID002",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 1.0,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 1.0,
+          "max_similarity": 1.0,
+          "avg_similarity": 0.8465,
+          "confidence": "high",
+          "gallery_size": 4,
+          "method": "FAISS",
+          "top_k": 18,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.99,
+          "dynamic_threshold": 0.72,
+          "quality_based_adjustment": false
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            57.82752990722656,
+            72.77848815917969
+          ],
+          "right_eye": [
+            101.70375061035156,
+            68.9073715209961
+          ],
+          "nose": [
+            80.16223907470703,
+            91.24134063720703
+          ],
+          "left_mouth": [
+            66.30009460449219,
+            111.84051513671875
+          ],
+          "right_mouth": [
+            100.9180908203125,
+            108.65152740478516
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:58:40.021232"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\Person_156_20251210_174738_0_q047.jpg",
+    "output": "proc_Person_156_20251210_174738_0_q047.jpg",
+    "faces": [
+      {
+        "bbox": [
+          36,
+          35,
+          116,
+          126
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Neutral",
+        "person_id": "ID002",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.9733,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 0.9733,
+          "max_similarity": 1.0,
+          "avg_similarity": 0.8159,
+          "confidence": "high",
+          "gallery_size": 5,
+          "method": "FAISS",
+          "top_k": 19,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.48,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            57.795982360839844,
+            73.1024169921875
+          ],
+          "right_eye": [
+            93.05659484863281,
+            66.28853607177734
+          ],
+          "nose": [
+            79.41910552978516,
+            87.29663848876953
+          ],
+          "left_mouth": [
+            67.580810546875,
+            106.798583984375
+          ],
+          "right_mouth": [
+            97.29889678955078,
+            100.9220199584961
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:58:44.075996"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\Person_151_20251210_144703_0_q049.jpg",
+    "output": "proc_Person_151_20251210_144703_0_q049.jpg",
+    "faces": [
+      {
+        "bbox": [
+          46,
+          35,
+          120,
+          123
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Happy",
+        "person_id": "ID003",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 1.0,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 1.0,
+          "max_similarity": 1.0,
+          "avg_similarity": 1.0,
+          "confidence": "high",
+          "gallery_size": 2,
+          "method": "FAISS",
+          "top_k": 20,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 7.23,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            85.56785583496094,
+            74.92616271972656
+          ],
+          "right_eye": [
+            110.84318542480469,
+            67.21524047851562
+          ],
+          "nose": [
+            113.13658142089844,
+            86.33329772949219
+          ],
+          "left_mouth": [
+            92.19305419921875,
+            104.93305969238281
+          ],
+          "right_mouth": [
+            113.48104858398438,
+            98.98381805419922
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:58:46.388417"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\person_1_20251126_111758_2.jpg",
+    "output": "proc_person_1_20251126_111758_2.jpg",
+    "faces": [
+      {
+        "bbox": [
+          19,
+          0,
+          120,
+          112
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Fear",
+        "person_id": "ID004",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 1.0,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 1.0,
+          "max_similarity": 1.0,
+          "avg_similarity": 0.8873,
+          "confidence": "high",
+          "gallery_size": 4,
+          "method": "FAISS",
+          "top_k": 22,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.67,
+          "dynamic_threshold": 0.72,
+          "quality_based_adjustment": false
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            41.56739044189453,
+            41.13875198364258
+          ],
+          "right_eye": [
+            86.72835540771484,
+            38.14308547973633
+          ],
+          "nose": [
+            62.45462417602539,
+            69.17756652832031
+          ],
+          "left_mouth": [
+            51.34296417236328,
+            88.42799377441406
+          ],
+          "right_mouth": [
+            83.38150787353516,
+            86.25684356689453
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:59:09.245423"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\person_1_20251127_183358_7.jpg",
+    "output": "proc_person_1_20251127_183358_7.jpg",
+    "faces": [
+      {
+        "bbox": [
+          28,
+          14,
+          98,
+          99
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Fear",
+        "person_id": "ID004",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.9937,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 0.9937,
+          "max_similarity": 1.0,
+          "avg_similarity": 0.8648,
+          "confidence": "high",
+          "gallery_size": 5,
+          "method": "FAISS",
+          "top_k": 23,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 7.96,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            40.616790771484375,
+            46.52675247192383
+          ],
+          "right_eye": [
+            72.98665618896484,
+            45.9360466003418
+          ],
+          "nose": [
+            53.3563232421875,
+            67.37841796875
+          ],
+          "left_mouth": [
+            46.09522247314453,
+            81.0025634765625
+          ],
+          "right_mouth": [
+            69.72023010253906,
+            80.7517318725586
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:59:23.190870"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\person_2_20251201_153809_2.jpg",
+    "output": "proc_person_2_20251201_153809_2.jpg",
+    "faces": [
+      {
+        "bbox": [
+          13,
+          9,
+          92,
+          100
+        ],
+        "age": "25-32",
+        "gender": "Male",
+        "emotion": "Sad",
+        "person_id": "ID005",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 1.0,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 1.0,
+          "max_similarity": 1.0,
+          "avg_similarity": 1.0,
+          "confidence": "high",
+          "gallery_size": 2,
+          "method": "FAISS",
+          "top_k": 24,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.28,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            48.326560974121094,
+            46.699073791503906
+          ],
+          "right_eye": [
+            80.64356231689453,
+            46.9184684753418
+          ],
+          "nose": [
+            67.85862731933594,
+            73.01020050048828
+          ],
+          "left_mouth": [
+            42.09187316894531,
+            78.26818084716797
+          ],
+          "right_mouth": [
+            68.17963409423828,
+            78.82649230957031
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:59:24.764130"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\person_3_20251201_153841_6.jpg",
+    "output": "proc_person_3_20251201_153841_6.jpg",
+    "faces": [
+      {
+        "bbox": [
+          10,
+          5,
+          71,
+          73
+        ],
+        "age": "25-32",
+        "gender": "Female",
+        "emotion": "Happy",
+        "person_id": "ID006",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 1.0,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 1.0,
+          "max_similarity": 1.0,
+          "avg_similarity": 0.8447,
+          "confidence": "high",
+          "gallery_size": 4,
+          "method": "FAISS",
+          "top_k": 25,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 7.59,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            31.827138900756836,
+            36.64799880981445
+          ],
+          "right_eye": [
+            59.75630569458008,
+            31.443754196166992
+          ],
+          "nose": [
+            50.11577606201172,
+            51.48314666748047
+          ],
+          "left_mouth": [
+            34.83382797241211,
+            58.38009262084961
+          ],
+          "right_mouth": [
+            59.26683044433594,
+            53.84992980957031
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:59:26.404304"
+  },
+  {
+    "input": "D:\\test\\test1\\new2\\person_3_20251201_153848_7.jpg",
+    "output": "proc_person_3_20251201_153848_7.jpg",
+    "faces": [
+      {
+        "bbox": [
+          23,
+          6,
+          81,
+          71
+        ],
+        "age": "25-32",
+        "gender": "Female",
+        "emotion": "Neutral",
+        "person_id": "ID006",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.9723,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 0.9723,
+          "max_similarity": 1.0,
+          "avg_similarity": 0.8136,
+          "confidence": "high",
+          "gallery_size": 5,
+          "method": "FAISS",
+          "top_k": 26,
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 7.55,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            39.15152359008789,
+            34.24042510986328
+          ],
+          "right_eye": [
+            67.89117431640625,
+            31.929521560668945
+          ],
+          "nose": [
+            55.18722915649414,
+            49.594154357910156
+          ],
+          "left_mouth": [
+            42.78424835205078,
+            57.95665740966797
+          ],
+          "right_mouth": [
+            66.36128234863281,
+            56.05922317504883
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-10T17:59:31.916739"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_1_20251211_155921_q076.jpg",
+    "output": "proc_Face_1_20251211_155921_q076.jpg",
+    "faces": [],
+    "num_faces": 0,
+    "timestamp": "2025-12-11T16:02:16.625147"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_3_20251211_155930_q077.jpg",
+    "output": "proc_Face_3_20251211_155930_q077.jpg",
+    "faces": [
+      {
+        "bbox": [
+          17,
+          20,
+          107,
+          111
+        ],
+        "age": "38-43",
+        "gender": "Female",
+        "emotion": "Neutral",
+        "person_id": "ID001",
+        "reid_status": "new",
+        "face_type": "unique",
+        "face_status": "UNKNOWN",
+        "similarity": 0.0,
+        "reid_confidence": "low",
+        "match_details": {
+          "reason": "Empty database",
+          "face_type": "unique",
+          "face_quality_score": 8.25,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            65.48599243164062,
+            69.38610076904297
+          ],
+          "right_eye": [
+            95.56379699707031,
+            59.826229095458984
+          ],
+          "nose": [
+            97.3453369140625,
+            80.53595733642578
+          ],
+          "left_mouth": [
+            78.33032989501953,
+            99.17601013183594
+          ],
+          "right_mouth": [
+            97.7788314819336,
+            91.36601257324219
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-11T16:02:28.259653"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_2_20251211_155929_q074.jpg",
+    "output": "proc_Face_2_20251211_155929_q074.jpg",
+    "faces": [
+      {
+        "bbox": [
+          15,
+          11,
+          111,
+          126
+        ],
+        "age": "38-43",
+        "gender": "Female",
+        "emotion": "Happy",
+        "person_id": "ID001",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.8024,
+        "reid_confidence": "medium",
+        "match_details": {
+          "similarity": 0.8024,
+          "max_similarity": 0.8024,
+          "avg_similarity": 0.8024,
+          "confidence": "medium",
+          "gallery_size": 1,
+          "method": "basic",
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.22,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            70.3224868774414,
+            67.77458953857422
+          ],
+          "right_eye": [
+            101.41873168945312,
+            59.85651779174805
+          ],
+          "nose": [
+            105.97279357910156,
+            82.62086486816406
+          ],
+          "left_mouth": [
+            78.31889343261719,
+            104.48603820800781
+          ],
+          "right_mouth": [
+            102.21961212158203,
+            98.14444732666016
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-11T16:02:28.261591"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_4_20251211_155930_q077.jpg",
+    "output": "proc_Face_4_20251211_155930_q077.jpg",
+    "faces": [
+      {
+        "bbox": [
+          17,
+          15,
+          109,
+          119
+        ],
+        "age": "38-43",
+        "gender": "Female",
+        "emotion": "Neutral",
+        "person_id": "ID001",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.9577,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 0.9577,
+          "max_similarity": 0.9165,
+          "avg_similarity": 0.858,
+          "confidence": "high",
+          "gallery_size": 2,
+          "method": "basic",
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.23,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            74.86692810058594,
+            69.36194610595703
+          ],
+          "right_eye": [
+            97.66956329345703,
+            61.19960403442383
+          ],
+          "nose": [
+            104.0518798828125,
+            84.69489288330078
+          ],
+          "left_mouth": [
+            79.85089111328125,
+            101.83309173583984
+          ],
+          "right_mouth": [
+            95.0238265991211,
+            95.5033950805664
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-11T16:02:28.262714"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_5_20251211_155930_q077.jpg",
+    "output": "proc_Face_5_20251211_155930_q077.jpg",
+    "faces": [
+      {
+        "bbox": [
+          16,
+          17,
+          109,
+          115
+        ],
+        "age": "25-32",
+        "gender": "Female",
+        "emotion": "Happy",
+        "person_id": "ID001",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.9332,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 0.9332,
+          "max_similarity": 0.8863,
+          "avg_similarity": 0.8234,
+          "confidence": "high",
+          "gallery_size": 3,
+          "method": "basic",
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.09,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": [
+            66.22720336914062,
+            70.18397521972656
+          ],
+          "right_eye": [
+            97.66100311279297,
+            58.99560546875
+          ],
+          "nose": [
+            98.75438690185547,
+            83.55197143554688
+          ],
+          "left_mouth": [
+            75.23169708251953,
+            99.8123779296875
+          ],
+          "right_mouth": [
+            98.15335845947266,
+            90.69686889648438
+          ]
+        },
+        "confidence": {
+          "gender": 0.9,
+          "age": 0.8,
+          "emotion": 0.85
+        }
+      }
+    ],
+    "num_faces": 1,
+    "timestamp": "2025-12-11T16:02:28.456816"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_9_20251211_155935_q075.jpg",
+    "output": "proc_Face_9_20251211_155935_q075.jpg",
+    "faces": [],
+    "num_faces": 0,
+    "timestamp": "2025-12-11T16:02:29.036220"
+  },
+  {
+    "input": "C:\\Users\\USER\\Downloads\\claaaav2\\snapshot\\Face_7_20251211_155930_q076.jpg",
+    "output": "proc_Face_7_20251211_155930_q076.jpg",
+    "faces": [
+      {
+        "bbox": [
+          16,
+          15,
+          108,
+          123
+        ],
+        "age": "48-53",
+        "gender": "Female",
+        "emotion": "Happy",
+        "person_id": "ID001",
+        "reid_status": "duplicate",
+        "face_type": "duplicate",
+        "face_status": "DUPLICATE FACE",
+        "similarity": 0.9337,
+        "reid_confidence": "high",
+        "match_details": {
+          "similarity": 0.9337,
+          "max_similarity": 0.9058,
+          "avg_similarity": 0.8535,
+          "confidence": "high",
+          "gallery_size": 4,
+          "method": "basic",
+          "face_type": "duplicate",
+          "status": "DUPLICATE FACE",
+          "face_quality_score": 8.25,
+          "dynamic_threshold": 0.25,
+          "quality_based_adjustment": true
+        },
+        "embedding_size": 512,
+        "landmarks": {
+          "left_eye": 
